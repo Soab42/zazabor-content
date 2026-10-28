@@ -1,0 +1,1109 @@
+{
+ "kind": "zazabor-content",
+ "format": 1,
+ "published": 1793215905,
+ "music": [
+  {
+   "id": "cinematic",
+   "title": "First Light",
+   "bpm": 72,
+   "seconds": 106.667,
+   "vibe": "Cinematic",
+   "file": "music/cinematic.ogg",
+   "bytes": 1555900,
+   "sha256": "bf6e0ade802c9b82e2f49bc16c7f44249ba670ab4e71ca54a33d119ab4bbb22f"
+  },
+  {
+   "id": "action",
+   "title": "Overdrive",
+   "bpm": 128,
+   "seconds": 120,
+   "vibe": "Energetic",
+   "file": "music/action.ogg",
+   "bytes": 1826856,
+   "sha256": "6122039952e7692369904145a6d3d6be8651a4f5d06390c2b775a59ddff7f063"
+  },
+  {
+   "id": "adventure",
+   "title": "Far Horizons",
+   "bpm": 100,
+   "seconds": 115.2,
+   "vibe": "Epic",
+   "file": "music/adventure.ogg",
+   "bytes": 1555321,
+   "sha256": "4d50e24b2f0555968ccf0122c8c655ccaba94310d328d1aa1e0c8663aaeabc6a"
+  },
+  {
+   "id": "dreamy",
+   "title": "Afterglow",
+   "bpm": 76,
+   "seconds": 101.053,
+   "vibe": "Ambient",
+   "file": "music/dreamy.ogg",
+   "bytes": 1694770,
+   "sha256": "acd8635e17c7a2b01b1efe5489d2ccb0464ebdcaa5ddf519edc4c4402722fe79"
+  },
+  {
+   "id": "memories",
+   "title": "Polaroid Summer",
+   "bpm": 84,
+   "seconds": 91.429,
+   "vibe": "Nostalgic",
+   "file": "music/memories.ogg",
+   "bytes": 1164614,
+   "sha256": "638b1b2d28840fc3776b8e5433c896e5d479de9a4ebadf9dece17f8d593fc93f"
+  },
+  {
+   "id": "lofi",
+   "title": "Lo-Fi Sunday",
+   "vibe": "Chill",
+   "bpm": 82,
+   "seconds": 93.659,
+   "file": "music/lofi.ogg",
+   "bytes": 1351646,
+   "sha256": "47993597a5e46d94bc6be4fa339e26acb34365a05e09150479ba2c917b080de7"
+  },
+  {
+   "id": "synthwave",
+   "title": "Neon Drive",
+   "vibe": "Retro 80s",
+   "bpm": 100,
+   "seconds": 115.2,
+   "file": "music/synthwave.ogg",
+   "bytes": 1750462,
+   "sha256": "a949601faf98b9461150954d916939cc5c49c961c9aaf2b9e2a6215780c344fb"
+  },
+  {
+   "id": "acoustic",
+   "title": "Good Days",
+   "vibe": "Happy",
+   "bpm": 112,
+   "seconds": 68.571,
+   "file": "music/acoustic.ogg",
+   "bytes": 1132340,
+   "sha256": "2203fe50603dca7b7c330f99675dde009c18660572c5a99e84c5d0079f3ddb6e"
+  },
+  {
+   "id": "house",
+   "title": "Club Lights",
+   "vibe": "Party",
+   "bpm": 124,
+   "seconds": 123.871,
+   "file": "music/house.ogg",
+   "bytes": 1898973,
+   "sha256": "6bfaf95d3fdc2d66b6da8a7f9d8d9985d2e75e6b22fe288a33bde24ee7671221"
+  },
+  {
+   "id": "jazz",
+   "title": "Café Noir",
+   "vibe": "Jazz",
+   "bpm": 120,
+   "seconds": 64,
+   "file": "music/jazz.ogg",
+   "bytes": 1008918,
+   "sha256": "affb472c310c7f34bcf51b28d438d69c6aabc0cc3018da161e55f7f5cd9fe048"
+  }
+ ],
+ "sounds": [],
+ "fonts": [
+  {
+   "family": "Inter",
+   "kind": "sans",
+   "dir": "inter",
+   "starter": true,
+   "files": [
+    {
+     "name": "Inter[opsz,wght].ttf",
+     "weight": "100 900",
+     "style": "normal",
+     "file": "fonts/inter/Inter-opsz-wght.ttf",
+     "bytes": 876576,
+     "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    }
+   ]
+  },
+  {
+   "family": "Poppins",
+   "kind": "sans",
+   "dir": "poppins",
+   "files": [
+    {
+     "name": "Poppins-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/poppins/Poppins-Regular.ttf",
+     "bytes": 160316,
+     "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba"
+    },
+    {
+     "name": "Poppins-SemiBold.ttf",
+     "weight": "600",
+     "style": "normal",
+     "file": "fonts/poppins/Poppins-SemiBold.ttf",
+     "bytes": 157312,
+     "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286"
+    },
+    {
+     "name": "Poppins-Bold.ttf",
+     "weight": "700",
+     "style": "normal",
+     "file": "fonts/poppins/Poppins-Bold.ttf",
+     "bytes": 155996,
+     "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c"
+    },
+    {
+     "name": "Poppins-ExtraBold.ttf",
+     "weight": "800",
+     "style": "normal",
+     "file": "fonts/poppins/Poppins-ExtraBold.ttf",
+     "bytes": 154836,
+     "sha256": "f2ab17c1a63a0ecc12c2461848fc8a469395e3cd2d641803e889c643d9f958e1"
+    }
+   ]
+  },
+  {
+   "family": "Montserrat",
+   "kind": "sans",
+   "dir": "montserrat",
+   "files": [
+    {
+     "name": "Montserrat[wght].ttf",
+     "weight": "100 900",
+     "style": "normal",
+     "file": "fonts/montserrat/Montserrat-wght.ttf",
+     "bytes": 744936,
+     "sha256": "0f7b311b2f3279e4eef9b2f968bcdbab6e28f4daeb1f049f4f278a902bcd82f7"
+    }
+   ]
+  },
+  {
+   "family": "Plus Jakarta Sans",
+   "kind": "sans",
+   "dir": "plusjakartasans",
+   "files": [
+    {
+     "name": "PlusJakartaSans[wght].ttf",
+     "weight": "200 800",
+     "style": "normal",
+     "file": "fonts/plusjakartasans/PlusJakartaSans-wght.ttf",
+     "bytes": 176288,
+     "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8"
+    }
+   ]
+  },
+  {
+   "family": "DM Sans",
+   "kind": "sans",
+   "dir": "dmsans",
+   "files": [
+    {
+     "name": "DMSans[opsz,wght].ttf",
+     "weight": "100 1000",
+     "style": "normal",
+     "file": "fonts/dmsans/DMSans-opsz-wght.ttf",
+     "bytes": 240164,
+     "sha256": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+    }
+   ]
+  },
+  {
+   "family": "Manrope",
+   "kind": "sans",
+   "dir": "manrope",
+   "files": [
+    {
+     "name": "Manrope[wght].ttf",
+     "weight": "200 800",
+     "style": "normal",
+     "file": "fonts/manrope/Manrope-wght.ttf",
+     "bytes": 164700,
+     "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6"
+    }
+   ]
+  },
+  {
+   "family": "Space Grotesk",
+   "kind": "sans",
+   "dir": "spacegrotesk",
+   "starter": true,
+   "files": [
+    {
+     "name": "SpaceGrotesk[wght].ttf",
+     "weight": "300 700",
+     "style": "normal",
+     "file": "fonts/spacegrotesk/SpaceGrotesk-wght.ttf",
+     "bytes": 136676,
+     "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+    }
+   ]
+  },
+  {
+   "family": "Outfit",
+   "kind": "sans",
+   "dir": "outfit",
+   "starter": true,
+   "files": [
+    {
+     "name": "Outfit[wght].ttf",
+     "weight": "100 900",
+     "style": "normal",
+     "file": "fonts/outfit/Outfit-wght.ttf",
+     "bytes": 110884,
+     "sha256": "fc7287273e66929776e2ba54f144fe699080bec29f61bf649d70d871468aeade"
+    }
+   ]
+  },
+  {
+   "family": "Sora",
+   "kind": "sans",
+   "dir": "sora",
+   "starter": true,
+   "files": [
+    {
+     "name": "Sora[wght].ttf",
+     "weight": "100 800",
+     "style": "normal",
+     "file": "fonts/sora/Sora-wght.ttf",
+     "bytes": 111400,
+     "sha256": "84ff7096ae3ec6c8be47d906d1a0ba4de7f2ce78c615275c77301964a316e16c"
+    }
+   ]
+  },
+  {
+   "family": "Bebas Neue",
+   "kind": "display",
+   "dir": "bebasneue",
+   "files": [
+    {
+     "name": "BebasNeue-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/bebasneue/BebasNeue-Regular.ttf",
+     "bytes": 61400,
+     "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73"
+    }
+   ]
+  },
+  {
+   "family": "Anton",
+   "kind": "display",
+   "dir": "anton",
+   "files": [
+    {
+     "name": "Anton-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/anton/Anton-Regular.ttf",
+     "bytes": 170812,
+     "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    }
+   ]
+  },
+  {
+   "family": "Oswald",
+   "kind": "display",
+   "dir": "oswald",
+   "starter": true,
+   "files": [
+    {
+     "name": "Oswald[wght].ttf",
+     "weight": "200 700",
+     "style": "normal",
+     "file": "fonts/oswald/Oswald-wght.ttf",
+     "bytes": 172088,
+     "sha256": "5b38c246e255a12f5712d640d56bcced0472466fc68983d2d0410ec0457c2817"
+    }
+   ]
+  },
+  {
+   "family": "Archivo Black",
+   "kind": "display",
+   "dir": "archivoblack",
+   "files": [
+    {
+     "name": "ArchivoBlack-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/archivoblack/ArchivoBlack-Regular.ttf",
+     "bytes": 90988,
+     "sha256": "dd9a89a019b4849f66ab75455fe7bdf931311042cbb0f0f97acc061539703180"
+    }
+   ]
+  },
+  {
+   "family": "Syne",
+   "kind": "display",
+   "dir": "syne",
+   "files": [
+    {
+     "name": "Syne[wght].ttf",
+     "weight": "400 800",
+     "style": "normal",
+     "file": "fonts/syne/Syne-wght.ttf",
+     "bytes": 146980,
+     "sha256": "ce5ac77142a65cab2248a1a2ebb740b1d4d9c20b52488877d3ff664d1356104a"
+    }
+   ]
+  },
+  {
+   "family": "Unbounded",
+   "kind": "display",
+   "dir": "unbounded",
+   "files": [
+    {
+     "name": "Unbounded[wght].ttf",
+     "weight": "200 900",
+     "style": "normal",
+     "file": "fonts/unbounded/Unbounded-wght.ttf",
+     "bytes": 778272,
+     "sha256": "323b511be380c8d474ef030686b71aedde501f8d9cd46da558b7c40454372c3f"
+    }
+   ]
+  },
+  {
+   "family": "Righteous",
+   "kind": "display",
+   "dir": "righteous",
+   "files": [
+    {
+     "name": "Righteous-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/righteous/Righteous-Regular.ttf",
+     "bytes": 43104,
+     "sha256": "2ffb3fe5c27d7e6571210b800448c4e234e651b46c6b4426c1bb567e5341348a"
+    }
+   ]
+  },
+  {
+   "family": "Playfair Display",
+   "kind": "serif",
+   "dir": "playfairdisplay",
+   "files": [
+    {
+     "name": "PlayfairDisplay[wght].ttf",
+     "weight": "400 900",
+     "style": "normal",
+     "file": "fonts/playfairdisplay/PlayfairDisplay-wght.ttf",
+     "bytes": 300724,
+     "sha256": "c40f2293766a503bc70cce9e512ef844a4ccb7cbcde792fe2ea31d191917d8d6"
+    },
+    {
+     "name": "PlayfairDisplay-Italic[wght].ttf",
+     "weight": "400 900",
+     "style": "italic",
+     "file": "fonts/playfairdisplay/PlayfairDisplay-Italic-wght.ttf",
+     "bytes": 278688,
+     "sha256": "a5e26dc5e2e77fb2803a0bf02fd4f81ee136ec8dea863ccdb0c59a263b21378b"
+    }
+   ]
+  },
+  {
+   "family": "DM Serif Display",
+   "kind": "serif",
+   "dir": "dmserifdisplay",
+   "files": [
+    {
+     "name": "DMSerifDisplay-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/dmserifdisplay/DMSerifDisplay-Regular.ttf",
+     "bytes": 76580,
+     "sha256": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616"
+    },
+    {
+     "name": "DMSerifDisplay-Italic.ttf",
+     "weight": "400",
+     "style": "italic",
+     "file": "fonts/dmserifdisplay/DMSerifDisplay-Italic.ttf",
+     "bytes": 71208,
+     "sha256": "df74c0ac387baeaeb0fe4f2324e1668e6a3ed8c09cd9796fe162c71753e19e45"
+    }
+   ]
+  },
+  {
+   "family": "Fraunces",
+   "kind": "serif",
+   "dir": "fraunces",
+   "files": [
+    {
+     "name": "Fraunces[SOFT,WONK,opsz,wght].ttf",
+     "weight": "100 900",
+     "style": "normal",
+     "file": "fonts/fraunces/Fraunces-SOFT-WONK-opsz-wght.ttf",
+     "bytes": 360440,
+     "sha256": "177ff6c0f14e5550a3c624247cd1189611d4eb65d000b14944c63d967958abbb"
+    }
+   ]
+  },
+  {
+   "family": "Cormorant Garamond",
+   "kind": "serif",
+   "dir": "cormorantgaramond",
+   "files": [
+    {
+     "name": "CormorantGaramond[wght].ttf",
+     "weight": "300 700",
+     "style": "normal",
+     "file": "fonts/cormorantgaramond/CormorantGaramond-wght.ttf",
+     "bytes": 1195560,
+     "sha256": "b20b7d9626dd956b2c5e558692ad328b1f19e3275e2782db4fa07670d83f35e0"
+    }
+   ]
+  },
+  {
+   "family": "Pacifico",
+   "kind": "script",
+   "dir": "pacifico",
+   "files": [
+    {
+     "name": "Pacifico-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/pacifico/Pacifico-Regular.ttf",
+     "bytes": 329380,
+     "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701"
+    }
+   ]
+  },
+  {
+   "family": "Caveat",
+   "kind": "script",
+   "dir": "caveat",
+   "files": [
+    {
+     "name": "Caveat[wght].ttf",
+     "weight": "400 700",
+     "style": "normal",
+     "file": "fonts/caveat/Caveat-wght.ttf",
+     "bytes": 403648,
+     "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988"
+    }
+   ]
+  },
+  {
+   "family": "Dancing Script",
+   "kind": "script",
+   "dir": "dancingscript",
+   "files": [
+    {
+     "name": "DancingScript[wght].ttf",
+     "weight": "400 700",
+     "style": "normal",
+     "file": "fonts/dancingscript/DancingScript-wght.ttf",
+     "bytes": 133636,
+     "sha256": "21808625578fe8d8cd10cb684be546dca077b27cd03a53a2f1ec11dc743c924c"
+    }
+   ]
+  },
+  {
+   "family": "Hind Siliguri",
+   "kind": "bangla",
+   "dir": "hindsiliguri",
+   "bangla": true,
+   "starter": true,
+   "files": [
+    {
+     "name": "HindSiliguri-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/hindsiliguri/HindSiliguri-Regular.ttf",
+     "bytes": 250052,
+     "sha256": "45071a7da902a74877f432722f525d00502d61aef71fca4cab3da8a23156c33d"
+    },
+    {
+     "name": "HindSiliguri-SemiBold.ttf",
+     "weight": "600",
+     "style": "normal",
+     "file": "fonts/hindsiliguri/HindSiliguri-SemiBold.ttf",
+     "bytes": 272740,
+     "sha256": "92a9a68240883467830b87b2568242a59e68d4535e9e15f087650e12c4aaca83"
+    },
+    {
+     "name": "HindSiliguri-Bold.ttf",
+     "weight": "700",
+     "style": "normal",
+     "file": "fonts/hindsiliguri/HindSiliguri-Bold.ttf",
+     "bytes": 287660,
+     "sha256": "d135765781d1a4aebc7dd4a2af221427ec8689060121d8a48b19bca3eeb3977e"
+    }
+   ]
+  },
+  {
+   "family": "Anek Bangla",
+   "kind": "bangla",
+   "dir": "anekbangla",
+   "bangla": true,
+   "files": [
+    {
+     "name": "AnekBangla[wdth,wght].ttf",
+     "weight": "100 800",
+     "style": "normal",
+     "file": "fonts/anekbangla/AnekBangla-wdth-wght.ttf",
+     "bytes": 1344456,
+     "sha256": "8b4ec2eaf7400ea9903718a4addf3135475292e6e0b04db7735d0f999289d919"
+    }
+   ]
+  },
+  {
+   "family": "Baloo Da 2",
+   "kind": "bangla",
+   "dir": "balooda2",
+   "bangla": true,
+   "files": [
+    {
+     "name": "BalooDa2[wght].ttf",
+     "weight": "400 800",
+     "style": "normal",
+     "file": "fonts/balooda2/BalooDa2-wght.ttf",
+     "bytes": 451504,
+     "sha256": "8b62a8c4dbe659be5e4d40c19b7b3012120335b333205c5aa101b45cdb449cff"
+    }
+   ]
+  },
+  {
+   "family": "Tiro Bangla",
+   "kind": "bangla",
+   "dir": "tirobangla",
+   "bangla": true,
+   "files": [
+    {
+     "name": "TiroBangla-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/tirobangla/TiroBangla-Regular.ttf",
+     "bytes": 323776,
+     "sha256": "a763523dc3f90a71962cb8d9400b8f0a86b40b2cb01676f165101a2967127ae4"
+    }
+   ]
+  },
+  {
+   "family": "Galada",
+   "kind": "bangla",
+   "dir": "galada",
+   "bangla": true,
+   "files": [
+    {
+     "name": "Galada-Regular.ttf",
+     "weight": "400",
+     "style": "normal",
+     "file": "fonts/galada/Galada-Regular.ttf",
+     "bytes": 187776,
+     "sha256": "acc22b41ee470dc542e15b5f8907c7fbebef1b9c01eb20e4127bdbf052b006ee"
+    }
+   ]
+  }
+ ],
+ "templates": [
+  {
+   "id": "launch-hero",
+   "name": "Product Hero",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-hero.json",
+   "bytes": 10113,
+   "sha256": "e432a6cc8a4f509c33e12f5b874d55239788771efdc78062473094ae7d76decf"
+  },
+  {
+   "id": "sale-price",
+   "name": "Price Drop",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-price.json",
+   "bytes": 16789,
+   "sha256": "be78e347380433fefd13597677e3df6d595d8a1372fa14e95b55df20a9f59c84"
+  },
+  {
+   "id": "feature-trio",
+   "name": "Feature Trio",
+   "category": "feature",
+   "format": 2,
+   "starter": true,
+   "file": "templates/feature-trio.json",
+   "bytes": 19825,
+   "sha256": "453bbdeebc12ef2be99db4db1a7035432197e60c15d0a9ca6e8489d5fc419268"
+  },
+  {
+   "id": "logo-line",
+   "name": "Line Logo",
+   "category": "logo",
+   "format": 2,
+   "file": "templates/logo-line.json",
+   "bytes": 7862,
+   "sha256": "cee840f47b133d43dc79ca76e7cd28d79529c0d53e6d6c26f39b8d80fe9f0d81"
+  },
+  {
+   "id": "lower-name",
+   "name": "Name Bar",
+   "category": "lower",
+   "format": 2,
+   "starter": true,
+   "file": "templates/lower-name.json",
+   "bytes": 5717,
+   "sha256": "b07171ba8da90a0a6d1f22a16d8fb5f2a935b81ad8044376706c572fe2138a4e"
+  },
+  {
+   "id": "reel-hook",
+   "name": "Hook + Follow",
+   "category": "hook",
+   "format": 2,
+   "file": "templates/reel-hook.json",
+   "bytes": 13779,
+   "sha256": "60fb513e2b28221711b8d149293578b6806cec9e8735bbfaf9f6f6747c53c723"
+  },
+  {
+   "id": "logo-liquid",
+   "name": "Liquid Drop",
+   "category": "logo",
+   "format": 2,
+   "file": "templates/logo-liquid.json",
+   "bytes": 6249,
+   "sha256": "fbf1c913f4a6a23350ced6c91b6bea604c2bcc8cacd47055f1625fa5e6cf58e3"
+  },
+  {
+   "id": "logo-glitch",
+   "name": "Glitch Logo",
+   "category": "logo",
+   "format": 2,
+   "file": "templates/logo-glitch.json",
+   "bytes": 12062,
+   "sha256": "bd78852d9dd9b9e536807fdb22874e91653c31d92bd16fcb340b1740182db850"
+  },
+  {
+   "id": "logo-dots",
+   "name": "Dot Grid",
+   "category": "logo",
+   "format": 2,
+   "file": "templates/logo-dots.json",
+   "bytes": 25139,
+   "sha256": "0f9139852407309aa62c508053095f1531cd980d7ba4c730658e447dbed6f9ac"
+  },
+  {
+   "id": "logo-leak",
+   "name": "Light Leak",
+   "category": "logo",
+   "format": 2,
+   "file": "templates/logo-leak.json",
+   "bytes": 4903,
+   "sha256": "c2f0264b6164bcde8efd4f936adfe2a5d2dc24880989876eaf2df73074d5604b"
+  },
+  {
+   "id": "logo-minimal",
+   "name": "Minimal Logo",
+   "category": "logo",
+   "format": 2,
+   "starter": true,
+   "file": "templates/logo-minimal.json",
+   "bytes": 4605,
+   "sha256": "a36924d3739e2f76c11fb090246e90c34ea3edbc22e54e82e808345575fb23cd"
+  },
+  {
+   "id": "title-chapter",
+   "name": "Chapter Title",
+   "category": "lower",
+   "format": 2,
+   "file": "templates/title-chapter.json",
+   "bytes": 4775,
+   "sha256": "2c4b8020849b2dcbfc5b1f46d6629815650acfb2df04e5177000039adb5e552d"
+  },
+  {
+   "id": "lower-subscribe",
+   "name": "Subscribe",
+   "category": "lower",
+   "format": 2,
+   "file": "templates/lower-subscribe.json",
+   "bytes": 10488,
+   "sha256": "da118f3a35a55f8a35f71b86dbeef040650a9d881a3120b7d4215a10a0ca4379"
+  },
+  {
+   "id": "lower-underline",
+   "name": "Underline",
+   "category": "lower",
+   "format": 2,
+   "file": "templates/lower-underline.json",
+   "bytes": 3256,
+   "sha256": "ce0db3915d45a5ea838a6255c42821855b69cee19f451f409ded70c3dc0f9d06"
+  },
+  {
+   "id": "lower-news",
+   "name": "News Bar",
+   "category": "lower",
+   "format": 2,
+   "starter": true,
+   "file": "templates/lower-news.json",
+   "bytes": 8891,
+   "sha256": "0acbe246f56ed371e1a10381885d17e64ee78e32409d43f80ae1781584dfd626"
+  },
+  {
+   "id": "hook-reasons",
+   "name": "Three Reasons",
+   "category": "hook",
+   "format": 2,
+   "file": "templates/hook-reasons.json",
+   "bytes": 11585,
+   "sha256": "7fa4cabab55c5d2e3b6b02dd662e7f7a5e42818936e769ac22b54afbc31bcff0"
+  },
+  {
+   "id": "hook-swipe",
+   "name": "Link in Bio",
+   "category": "hook",
+   "format": 2,
+   "file": "templates/hook-swipe.json",
+   "bytes": 8789,
+   "sha256": "c756081f05346ef82b9fbe3c9a422a69bfcf1ccff5f749122d666bfbb085a1b9"
+  },
+  {
+   "id": "end-socials",
+   "name": "Follow Card",
+   "category": "hook",
+   "format": 2,
+   "file": "templates/end-socials.json",
+   "bytes": 12717,
+   "sha256": "a2993c51c43d753334bad46c20d07f707303deb4f83a641e1bca78318f89f90b"
+  },
+  {
+   "id": "end-thanks",
+   "name": "Thank You",
+   "category": "hook",
+   "format": 2,
+   "file": "templates/end-thanks.json",
+   "bytes": 20352,
+   "sha256": "08226cbd7113f1cb0a0f7e6eb06ea843b3894697fdb2d86c6db17f341ae0fd65"
+  },
+  {
+   "id": "launch-intro",
+   "name": "Introducing",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-intro.json",
+   "bytes": 10353,
+   "sha256": "da334cf99f5b9ebcf54334b2a3b910ba1c8c488198800f41566283f0187e6779"
+  },
+  {
+   "id": "launch-turntable",
+   "name": "Turntable",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-turntable.json",
+   "bytes": 12490,
+   "sha256": "c0862c8be415ada58353aaee75d9043f885be306820063f7e9fc45d685c541ec"
+  },
+  {
+   "id": "launch-specs",
+   "name": "Spec Call-outs",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-specs.json",
+   "bytes": 17902,
+   "sha256": "3f71e3d3d80882ef1185fada510626b97a414c5adfc0f035cafea50524d28bc4"
+  },
+  {
+   "id": "launch-luxury",
+   "name": "Dark Luxury",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-luxury.json",
+   "bytes": 10329,
+   "sha256": "1bd88e0ebd2c2187a172595c439d98528f49889e573204a035d6aed05bdf11fd"
+  },
+  {
+   "id": "launch-colorway",
+   "name": "Colourways",
+   "category": "launch",
+   "format": 2,
+   "file": "templates/launch-colorway.json",
+   "bytes": 15050,
+   "sha256": "ea40598f46581d6f3abaf7b8dfc3d8bcc8c42de571ba9ed24e26ad81499e9885"
+  },
+  {
+   "id": "fashion-editorial",
+   "name": "Editorial",
+   "category": "fashion",
+   "format": 2,
+   "file": "templates/fashion-editorial.json",
+   "bytes": 8041,
+   "sha256": "b0383ebd1ccfbca4f1900ad041feef9ec121284f3de991a9c893a39965017b62"
+  },
+  {
+   "id": "fashion-lookbook",
+   "name": "Lookbook",
+   "category": "fashion",
+   "format": 2,
+   "file": "templates/fashion-lookbook.json",
+   "bytes": 10754,
+   "sha256": "937287a8a5e3bfe372b96932051d7d778ab1aa30fa312df90f204233af0db7bf"
+  },
+  {
+   "id": "fashion-swatch",
+   "name": "Swatches",
+   "category": "fashion",
+   "format": 2,
+   "file": "templates/fashion-swatch.json",
+   "bytes": 10836,
+   "sha256": "e623568ad9302a7c956d39154afe02ad78411989502e41340088db4d855f1c07"
+  },
+  {
+   "id": "fashion-serif",
+   "name": "Serif Card",
+   "category": "fashion",
+   "format": 2,
+   "file": "templates/fashion-serif.json",
+   "bytes": 7148,
+   "sha256": "8052548b78752e6aaa374f17c6081c26c16a18113ecaef7cf30c6df456de171e"
+  },
+  {
+   "id": "food-menu",
+   "name": "Menu Card",
+   "category": "food",
+   "format": 2,
+   "file": "templates/food-menu.json",
+   "bytes": 12975,
+   "sha256": "921f61dc575f8e9a783120dd946ecabcbd37ff77506f248bae661078e58220d0"
+  },
+  {
+   "id": "food-special",
+   "name": "Today's Special",
+   "category": "food",
+   "format": 2,
+   "file": "templates/food-special.json",
+   "bytes": 11313,
+   "sha256": "70ef29deccd47865e36e09d38f1f1f34ee2ede5dcef592646c7205560f5bae8d"
+  },
+  {
+   "id": "food-ingredients",
+   "name": "Ingredients",
+   "category": "food",
+   "format": 2,
+   "file": "templates/food-ingredients.json",
+   "bytes": 20058,
+   "sha256": "7b8f8709c295289b504df8f0026e1852774b2b0c4c1078bad7a79f07c5ed540f"
+  },
+  {
+   "id": "food-delivery",
+   "name": "Delivery",
+   "category": "food",
+   "format": 2,
+   "file": "templates/food-delivery.json",
+   "bytes": 14713,
+   "sha256": "821f3eacca5584c960d5f11343f5262ae9889749fd22cf5b70fcc3190e6cf1c9"
+  },
+  {
+   "id": "estate-property",
+   "name": "Property Card",
+   "category": "estate",
+   "format": 2,
+   "file": "templates/estate-property.json",
+   "bytes": 15255,
+   "sha256": "0fa5165b73f8b6eec445ffb57c5384ae13b1f50ef92d2ecb1adc67b3a1850404"
+  },
+  {
+   "id": "estate-agent",
+   "name": "Agent Intro",
+   "category": "estate",
+   "format": 2,
+   "file": "templates/estate-agent.json",
+   "bytes": 11289,
+   "sha256": "0fd83fb6ae09259b6ffd52e4b9a0a315c28639abeea9a127d564796aea4426d2"
+  },
+  {
+   "id": "estate-map",
+   "name": "Map Pin",
+   "category": "estate",
+   "format": 2,
+   "file": "templates/estate-map.json",
+   "bytes": 22079,
+   "sha256": "57488ea72813f3aafd6aa21fe035e2595aeffeedf0af0bc3d928305f0dab1785"
+  },
+  {
+   "id": "festive-eid",
+   "name": "Eid Offer",
+   "category": "festive",
+   "format": 2,
+   "file": "templates/festive-eid.json",
+   "bytes": 25904,
+   "sha256": "d917196b1d15333b5bd3e4dfee6a6ccad5a4969e814e2085bd5a9858b536a1d0"
+  },
+  {
+   "id": "festive-boishakh",
+   "name": "Pohela Boishakh",
+   "category": "festive",
+   "format": 2,
+   "file": "templates/festive-boishakh.json",
+   "bytes": 18547,
+   "sha256": "1111dd7c8a89849c239057d7cd8f3a26fc95d333e67c21760a8f4df42aa12577"
+  },
+  {
+   "id": "festive-victory",
+   "name": "Victory Day",
+   "category": "festive",
+   "format": 2,
+   "file": "templates/festive-victory.json",
+   "bytes": 9165,
+   "sha256": "4d35db1752d99320cf571aa4905834d1ac016c113439d1f5e46d85fc5325ef7d"
+  },
+  {
+   "id": "festive-puja",
+   "name": "Sharodiya",
+   "category": "festive",
+   "format": 2,
+   "file": "templates/festive-puja.json",
+   "bytes": 38121,
+   "sha256": "ff4a12f7c28955758f02a0dbef206c14c6ae449489786a468b521edda13eb323"
+  },
+  {
+   "id": "sale-countdown",
+   "name": "Flash Countdown",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-countdown.json",
+   "bytes": 10865,
+   "sha256": "b847897fbff7d2154189c2545e4287e50741ce4230aacda772314bffc541c620"
+  },
+  {
+   "id": "sale-burst",
+   "name": "Percent Burst",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-burst.json",
+   "bytes": 9936,
+   "sha256": "12a8ad5ec9d75e98640dd20969ceed82d902141f6e4b7952dd81c6d97d064d6e"
+  },
+  {
+   "id": "sale-stock",
+   "name": "Limited Stock",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-stock.json",
+   "bytes": 12232,
+   "sha256": "7b8eff430c0036ed51b2f0673790d59e61027a38617055b656f8d15ea5a6570d"
+  },
+  {
+   "id": "sale-bogo",
+   "name": "Buy One Get One",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-bogo.json",
+   "bytes": 12566,
+   "sha256": "3f272ab437ea2a328fea54322f6c729789a0352b5a87c6a4dca8c436b902c907"
+  },
+  {
+   "id": "sale-coupon",
+   "name": "Coupon Code",
+   "category": "sale",
+   "format": 2,
+   "file": "templates/sale-coupon.json",
+   "bytes": 9980,
+   "sha256": "ce6db37f465bfad5fc01c20ffe00ddee75574c5d094d316dfdda1414747ca2df"
+  },
+  {
+   "id": "feature-compare",
+   "name": "Before / After",
+   "category": "feature",
+   "format": 2,
+   "file": "templates/feature-compare.json",
+   "bytes": 14117,
+   "sha256": "a08c680b6ca167cd5ce1db586f4100ea6ebba29c201de2689357dd7a9eefcbba"
+  },
+  {
+   "id": "feature-zoom",
+   "name": "Detail Zoom",
+   "category": "feature",
+   "format": 2,
+   "file": "templates/feature-zoom.json",
+   "bytes": 13387,
+   "sha256": "95e9fbb3cd7946730822f0bd8aac5b8ac2bf47fa6832140860b692cb25a556cb"
+  },
+  {
+   "id": "feature-steps",
+   "name": "Three Steps",
+   "category": "feature",
+   "format": 2,
+   "file": "templates/feature-steps.json",
+   "bytes": 18295,
+   "sha256": "fb38753a36d7434655f46d122f8ec206f10a5e80cb91d9bf6eb67830982d52f8"
+  },
+  {
+   "id": "feature-stats",
+   "name": "Stat Counters",
+   "category": "feature",
+   "format": 2,
+   "file": "templates/feature-stats.json",
+   "bytes": 18503,
+   "sha256": "ffc1f2c73eca69fcfb0be0be344e66cc1c8e518b83503ede00627bc0f38c1bba"
+  },
+  {
+   "id": "app-phone",
+   "name": "Phone Showcase",
+   "category": "app",
+   "format": 2,
+   "file": "templates/app-phone.json",
+   "bytes": 20895,
+   "sha256": "69827c150849a87fa1daab30165227aded6fa1fe6085398c14fb8f5da159cbff"
+  },
+  {
+   "id": "app-laptop",
+   "name": "Laptop Screen",
+   "category": "app",
+   "format": 2,
+   "file": "templates/app-laptop.json",
+   "bytes": 13391,
+   "sha256": "7d44193e77d35dfcadae9211e625dba52f104b8c7e9231468bb14a9681649783"
+  },
+  {
+   "id": "app-scroll",
+   "name": "Scroll Through",
+   "category": "app",
+   "format": 2,
+   "file": "templates/app-scroll.json",
+   "bytes": 13955,
+   "sha256": "bb27c1e0555d1ba89ddf899dfff5c357add1d6d491fc07e56916091b12e54195"
+  },
+  {
+   "id": "app-notify",
+   "name": "Notifications",
+   "category": "app",
+   "format": 2,
+   "starter": true,
+   "file": "templates/app-notify.json",
+   "bytes": 21537,
+   "sha256": "fb8745ecb4e0d4e74e672c54eadacb3a64612755a36e1c1f5939d918eb33ee67"
+  },
+  {
+   "id": "app-download",
+   "name": "Get the App",
+   "category": "app",
+   "format": 2,
+   "starter": true,
+   "file": "templates/app-download.json",
+   "bytes": 13097,
+   "sha256": "ed613e0f296160c1468c12304d63dd14c4b3eb3b8b86288b54a24380ccc2ffc5"
+  },
+  {
+   "id": "review-quote",
+   "name": "Quote Card",
+   "category": "review",
+   "format": 2,
+   "file": "templates/review-quote.json",
+   "bytes": 10705,
+   "sha256": "39a8fae61766fbeb1356e5e2309c4f681d72f7197ff9252ee8f8adaf71a3745c"
+  },
+  {
+   "id": "review-carousel",
+   "name": "Review Carousel",
+   "category": "review",
+   "format": 2,
+   "file": "templates/review-carousel.json",
+   "bytes": 20942,
+   "sha256": "2adbc286bc372916a0eb178b5e7690bfcf1ac67d51ea30a7bbd24095221b7a30"
+  },
+  {
+   "id": "review-counter",
+   "name": "Customer Counter",
+   "category": "review",
+   "format": 2,
+   "file": "templates/review-counter.json",
+   "bytes": 13906,
+   "sha256": "2faff479315df392e9af639c9082d72cae4fa8e686ed7a1a7a7bb0770778f894"
+  }
+ ]
+}
